@@ -19,7 +19,7 @@ Transformar qualquer demanda de contencioso civel em entrega correta e validada,
 2. **Classificar** via `triagem-civel` (fase processual + objetivo + skill alvo + foro).
 3. **Carregar** `memoria-de-caso-civel` (partes, vara, fase, prazos, atos, providencias).
 4. **Gestao processual SEMPRE (Camada 2):** antes/junto de qualquer peca, acionar `tempestividade-civel`, `gratuidade-e-impugnacao`, `competencia-e-foro`, `preliminares-civel`, `valor-da-causa` — e so entao a skill da fase. Esse e o "nao esquecer nada".
-5. **Conduzir os desdobramentos** na ordem: inicial -> (emenda) -> contestacao+preliminares -> replica -> saneamento -> provas -> audiencias -> razoes finais -> sentenca -> recursos (ED/agravo/apelacao/excepcionais) -> [v0.2] cumprimento/execucao.
+5. **Conduzir os desdobramentos** na ordem: inicial (ou acao especifica da Camada 5) -> (emenda) -> contestacao+preliminares -> replica -> saneamento -> provas -> audiencias -> razoes finais -> sentenca -> recursos (ED/agravo/apelacao/excepcionais) -> cumprimento de sentenca/execucao (defesa do executado, penhora, IDPJ, impugnacao) -> incidentes quando surgirem (suspeicao/impedimento, conflito de competencia, IRDR/IAC, exibicao/falsidade).
 6. **Gate final:** toda entrega passa pela `suprema-corte-civel` (R1-R4).
 7. **Atualizar** `memoria-de-caso-civel` (ato praticado, proximo passo, prazo).
 

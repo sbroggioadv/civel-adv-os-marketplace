@@ -8,7 +8,7 @@ Plugin Claude Code de **contencioso civel brasileiro** (Civil Litigation Master)
 3. Rode **`/start-civel`** para configurar.
 
 ## O que entrega
-Procedimento comum + tutelas + recursos + gestao processual transversal. 39 skills, orquestrador `civel-master`, Suprema Corte R1-R4. Fundacao: CPC/2015 + CC/2002 + reformas + jurisprudencia.
+Procedimento comum + tutelas + recursos + gestao processual transversal. 64 skills, orquestrador `civel-master`, Suprema Corte R1-R4. Fundacao: CPC/2015 + CC/2002 + reformas + jurisprudencia.
 
 ---
 (c) Sbroggio Advocacia & IA Combativa — licenca MIT.

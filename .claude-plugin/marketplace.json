@@ -1,13 +1,13 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "civel-adv-os-marketplace",
-  "description": "Marketplace oficial do plugin Civel Adv-OS — contencioso civel brasileiro com IA.",
+  "description": "Marketplace oficial do plugin Civel Adv-OS — contencioso civel brasileiro completo com IA.",
   "owner": { "name": "Sbroggio Advocacia & IA Combativa" },
   "plugins": [
     {
       "name": "civel-adv-os",
       "source": "./civel-adv-os",
-      "description": "Plugin full-stack de contencioso civel brasileiro (Civil Litigation Master): procedimento comum (inicial, contestacao, replica, saneamento, instrucao, sentenca), tutelas de urgencia/evidencia, recursos (ED, agravos, apelacao, REsp/RE) e gestao processual transversal (tempestividade, gratuidade, competencia/foro, preliminares, valor da causa). 39 skills, orquestrador civel-master, Suprema Corte R1-R4, fundacao juridica enraizada (CPC/2015 + CC/2002 + reformas + jurisprudencia STJ/STF).",
+      "description": "Plugin full-stack de contencioso civel brasileiro (Civil Litigation Master) — 64 skills em 9 camadas: procedimento comum (inicial, contestacao, replica, saneamento, instrucao, sentenca), tutelas de urgencia/evidencia, a gama de acoes civeis (indenizatoria, obrigacao de fazer/nao fazer, resolucao/revisional contratual, cobranca/monitoria, consignacao, declaratoria, anulatoria, possessorias, usucapiao, reivindicatoria, exigir contas, embargos de terceiro, rescisoria, producao antecipada de provas), recursos (ED, agravos, apelacao, REsp/RE), cumprimento e execucao (cumprimento de sentenca, impugnacao, penhora/expropriacao, defesa do executado, IDPJ/fraude, medidas atipicas) e incidentes (suspeicao/impedimento, conflito de competencia, IRDR/IAC, exibicao), com gestao processual transversal (tempestividade, gratuidade, competencia/foro, preliminares, valor da causa). Orquestrador civel-master, Suprema Corte R1-R4, fundacao juridica enraizada (CPC/2015 + CC/2002 + reformas + jurisprudencia STJ/STF). Anti-alucinacao por design.",
       "author": { "name": "Sbroggio Advocacia & IA Combativa" }
     }
   ]
