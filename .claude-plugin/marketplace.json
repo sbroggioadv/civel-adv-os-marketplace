@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "civel-adv-os-marketplace",
+  "description": "Marketplace oficial do plugin Civel Adv-OS — contencioso civel brasileiro com IA.",
+  "owner": { "name": "Sbroggio Advocacia & IA Combativa" },
+  "plugins": [
+    {
+      "name": "civel-adv-os",
+      "source": "./civel-adv-os",
+      "description": "Plugin full-stack de contencioso civel brasileiro (Civil Litigation Master): procedimento comum (inicial, contestacao, replica, saneamento, instrucao, sentenca), tutelas de urgencia/evidencia, recursos (ED, agravos, apelacao, REsp/RE) e gestao processual transversal (tempestividade, gratuidade, competencia/foro, preliminares, valor da causa). 39 skills, orquestrador civel-master, Suprema Corte R1-R4, fundacao juridica enraizada (CPC/2015 + CC/2002 + reformas + jurisprudencia STJ/STF).",
+      "author": { "name": "Sbroggio Advocacia & IA Combativa" }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "SessionStart": [
+    {
+      "matcher": "",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo '[civel-adv-os] Civil Litigation Master ativo. Porta unica: civel-master. Onboarding: /start-civel. Foco: contencioso civel. Sempre passar pela gestao processual (tempestividade/gratuidade/foro/preliminares/valor da causa) e fechar pela suprema-corte-civel. CC/2002 vigente (PL 4/2025 so monitorar); CPC com Lei 14.879/2024 e 14.939/2024.'",
+          "timeout": 5
+        }
+      ]
+    }
+  ]
+}
